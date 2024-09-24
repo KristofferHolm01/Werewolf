@@ -1,2 +1,4 @@
-package com.werewolf.bot.commands;public class shuffle {
+package com.werewolf.bot.commands;
+
+public class shuffle {
 }

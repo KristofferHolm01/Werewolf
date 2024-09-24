@@ -1,2 +1,4 @@
-package com.werewolf.bot.commands;public class vote {
+package com.werewolf.bot.commands;
+
+public class vote {
 }
